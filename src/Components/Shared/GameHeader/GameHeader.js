@@ -12,7 +12,7 @@ const GameHeader = () => {
                 </div>
                 <div className='headerRight'>
                     <img className='mb-2' src={health} alt="" />
-                     <NavLink to="/dashbord"> <i className="fs-1 me-2 fas fa-ellipsis-v"></i></NavLink>
+                     <NavLink to="/dashbord"> <i className="fs-1 me-2 fas fa-ellipsis-v text-black"></i></NavLink>
                 </div>
             </div>
         </div>

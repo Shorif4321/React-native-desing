@@ -13,15 +13,18 @@ function App() {
       <Router>
         <Switch>
 
-          <Route path='/home'>
+          <Route exact path='/'>
+            <Home></Home>
+          </Route>
+          <Route exact path='/home'>
             <Home></Home>
           </Route>
 
-          <Route path='/dashbord'>
+          <Route exact path='/dashbord'>
             <DashboardScreen></DashboardScreen>
           </Route>
 
-          <Route path='/game'>
+          <Route exact path='/game'>
             <GameView></GameView>
           </Route>
 
