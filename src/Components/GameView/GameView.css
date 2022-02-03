@@ -1,0 +1,52 @@
+.PlayGame{
+    color: white;
+    border-radius: 20px;
+    padding: 7px 10px;
+    text-align: center;
+    background-color: #C41230;
+}
+.playIcon{
+    padding: 14px;
+    background-color: white;
+    border-radius: 100%;
+}
+.car img{
+    width: 100%;
+}
+.sliderButton{
+    height: 10px;
+    max-width: 115px;
+    margin: 20;
+    text-align: center;
+}
+.playTOp{
+    width: 95%;
+    height: 1px;
+    margin: auto;
+    display: block;
+    background: #c6cbcc;
+}
+.first{
+    width: 15px;
+    height: 15px;
+    border-radius: 2px;
+    background-color: #458F5A;
+    display: inline-block;
+    margin-right: 10px;
+}
+.first1{
+    width: 15px;
+    height: 15px;
+    border-radius: 2px;
+    background-color: #7657DF;
+    display: inline-block;
+    margin-right: 10px;
+}
+.first2{
+    width: 15px;
+    height: 15px;
+    border-radius: 2px;
+    background-color: #FAA9A9;
+    display: inline-block;
+    margin-right: 10px;
+}

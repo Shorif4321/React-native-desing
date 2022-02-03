@@ -1,0 +1,7 @@
+.signal{
+    display: flex;
+    color: black;
+    font-weight: bold;
+    justify-content: space-between;
+    padding: 15px 15px !important;
+}
